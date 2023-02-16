@@ -31,7 +31,7 @@
 <!-- <h2 align="center">📚 Projects</h2>
 <ul>
   <li>
-    <h3><a href="[Link to Project]">[Project Name]</a></h3>
+    <h3><a href="arafat@neuraltronix.me">[Project Name]</a></h3>
     <p>[Project Description]</p>
     <p>Skills: [List of Skills Used]</p>
   </li>
