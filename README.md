@@ -28,7 +28,7 @@
 </p>
 
 <!-- Projects -->
-<h2 align="center">📚 Projects</h2>
+<!-- <h2 align="center">📚 Projects</h2>
 <ul>
   <li>
     <h3><a href="[Link to Project]">[Project Name]</a></h3>
@@ -45,7 +45,7 @@
     <p>[Project Description]</p>
     <p>Skills: [List of Skills Used]</p>
   </li>
-</ul>
+</ul> -->
 
 <!-- Social -->
 <h2 align="center">🌍 Social</h2>
